@@ -1,1 +1,5 @@
+This phase focuses on ensuring the system performs optimally under various conditions:
 
+    Load Testing: How the system handles expected user load
+    Stress Testing: How the system behaves under extreme conditions
+    Fine-Tuning: Optimizing system performance based on test results
