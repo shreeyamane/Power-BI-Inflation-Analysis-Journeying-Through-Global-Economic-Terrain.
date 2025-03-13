@@ -1,1 +1,5 @@
+This phase defines what the system should achieve:
 
+    Functional Requirements (what the system must do)
+    Non-Functional Requirements (performance, security, scalability)
+    Use Case Scenarios and User Stories
