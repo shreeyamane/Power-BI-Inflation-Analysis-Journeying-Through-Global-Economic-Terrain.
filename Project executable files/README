@@ -1,1 +1,5 @@
+This folder contains:
 
+    Source Code: The main project codebase
+    Deployment Scripts: To set up the project on different environments
+    Configuration Files: For application setup
