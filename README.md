@@ -39,6 +39,7 @@ The Power BI dashboard provides a visual overview of global inflation patterns a
   <img src="04.%20Project%20executable%20files/project%20dashboard.png" width="95%" alt="Global Inflation Analysis Dashboard"/>
 </p>
 
+
 ---
 
 ## 🔍 Key Analytical Highlights
